@@ -5,5 +5,4 @@ cfscrape
 socks 
 pysocks 
 colorama 
-undetected_chromedriver 
 cloudscraper
