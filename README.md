@@ -44,7 +44,6 @@ How to use:
 - Recommended in shell of google...
 - Using vps with high speed will be stronger
 
-apt install nodejs -y
 npm i cloudscraper
 npm i fs
 npm i hcaptcha-solver
@@ -55,10 +54,7 @@ npm i net
 npm i requests
 git clone https://github.com/dandiers/DdosPanel.git
 cd DdosPanel
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 pip install -r requirements.txt
-ulimit -n 999999
 python3 main.py
 ```
 
