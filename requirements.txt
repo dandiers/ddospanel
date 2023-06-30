@@ -1,6 +1,5 @@
 yarl~=1.7.2
 datetime 
-requests 
 cfscrape 
 socks 
 pysocks 
