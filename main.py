@@ -47,26 +47,26 @@ class Color:
 def main():
     os.system('cls' if os.name == 'nt' else 'clear')
     banner = r"""
-				▓████▄ ▓█████▄  ▒█████    ██████ 
-				▒██▀ ██▌▒██▀ ██▌▒██▒  ██▒▒██    ▒ 
-				░██   █▌░██   █▌▒██░  ██▒░ ▓██▄   
-				░▓█▄   ▌░▓█▄   ▌▒██   ██░  ▒   ██▒
-				░▒████▓ ░▒████▓ ░ ████▓▒░▒██████▒▒
-				 ▒▒▓  ▒  ▒▒▓  ▒ ░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░
-				 ░ ▒  ▒  ░ ▒  ▒   ░ ▒ ▒░ ░ ░▒  ░ ░
-				 ░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░  
-				   ░       ░        ░ ░        ░  
-				 ░       ░                       
+		▓████▄ ▓█████▄  ▒█████    ██████ 
+		▒██▀ ██▌▒██▀ ██▌▒██▒  ██▒▒██    ▒ 
+		░██   █▌░██   █▌▒██░  ██▒░ ▓██▄   
+		░▓█▄   ▌░▓█▄   ▌▒██   ██░  ▒   ██▒
+		░▒████▓ ░▒████▓ ░ ████▓▒░▒██████▒▒
+		▒▒▓  ▒  ▒▒▓  ▒ ░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░
+		░ ▒  ▒  ░ ▒  ▒   ░ ▒ ▒░ ░ ░▒  ░ ░
+		░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░  
+		░       ░        ░ ░        ░  
+		░       ░                       
 """
     author = r"""
-					Ddos Panel By Dandier
+			Ddos Panel By Dandier
     """
     prints(start_color, end_color, banner)
     prints(end_color, start_color, author)
     print("\n") 
-    print(Color.LB+"                                  ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LY+" dandier"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
+    print(Color.LB+"         ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LY+" dandier"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
     print("\n") 
-    print(Color.LR+"                                  ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" gangbang"+Color.LB+"       ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LY+" socket")
+    print(Color.LR+"         ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" gangbang"+Color.LB+"       ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LY+" socket")
     print("\n")
     
     while True:
