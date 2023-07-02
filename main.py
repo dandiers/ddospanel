@@ -64,9 +64,9 @@ def main():
     prints(start_color, end_color, banner)
     prints(end_color, start_color, author)
     print("\n") 
-    print(Color.LB+"         ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" dandier"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
+    print(Color.LB+"           ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" dandier"+Color.LR+"       ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" flood")
     print("\n") 
-    print(Color.LR+"         ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" gangbang"+Color.LB+"       ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" socket")
+    print(Color.LR+"           ["+Color.LG+"VIP"+Color.LR+"]"+Color.LC+" gangbang"+Color.LB+"       ["+Color.LR+"VVIP"+Color.LB+"]"+Color.LC+" socket")
     print("\n")
     
     while True:
