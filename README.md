@@ -60,7 +60,7 @@ python3 main.py
 
 # Credits
 ```sh
-dandier (Make some power and added some methods.-.)
+dandier (Owner Of This Tools.-.)
 ```
 
 # Rules:
