@@ -71,10 +71,10 @@ dandier (Owner Of This Tools.-.)
 
 
 # Power
-<img src="https://github.com/dandiers/ddospanel/assets/61583533/8ba3779b-90e5-4798-a3b5-aaab3399ecbb"></img>
+<img src="https://github.com/dandiers/ddospanel/assets/61583533/09e36550-8f83-44bd-ab4f-345bd8236d93"></img>
 
-<img src="https://github.com/dandiers/ddospanel/assets/61583533/e28fae3d-653a-4cf1-8f0a-b3ec7355ea80"><img>
 
+<img src="https://github.com/dandiers/ddospanel/assets/61583533/591a8254-e881-4c29-8b12-021df28dd2f2"></img>
 # Rules:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
