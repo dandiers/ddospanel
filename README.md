@@ -22,7 +22,7 @@
  - OPEN SOURCE!!
    
 # Tree
-* [Info](#Info)
+* [𝕀𝕟𝕗𝕠](#Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [Rules](#TOS)
