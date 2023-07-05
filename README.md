@@ -25,6 +25,7 @@
 * [𝕀𝕟𝕗𝕠](#Info)
 * [𝕊𝕖𝕥𝕦𝕡](#Setup)
 * [ℂ𝕣𝕖𝕕𝕚𝕥𝕤](#Credits)
+* [ℙ𝕠𝕨𝕖𝕣](#Power)
 * [ℝ𝕦𝕝𝕖𝕤](#TOS)
 * [𝕒𝕡𝕡𝕖𝕒𝕣𝕒𝕟𝕔𝕖](#Appearance)
 * [ℂ𝕠𝕟𝕥𝕒𝕔𝕥](#Contact)
@@ -68,6 +69,10 @@ dandier (Owner Of This Tools.-.)
 # Appearance
 <img src="https://github.com/dandiers/ddospanel/assets/61583533/852b9f34-56fb-4235-a2b7-5a6eb77e615b">
 
+# Power
+<img src="https://github.com/dandiers/ddospanel/assets/61583533/8ba3779b-90e5-4798-a3b5-aaab3399ecbb"></img>
+
+<img src="https://github.com/dandiers/ddospanel/assets/61583533/e28fae3d-653a-4cf1-8f0a-b3ec7355ea80"><img>
 
 # Rules:
 ```sh
