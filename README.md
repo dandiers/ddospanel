@@ -67,7 +67,8 @@ dandier (Owner Of This Tools.-.)
 ```
 
 # Appearance
-<img src="https://github.com/dandiers/ddospanel/assets/61583533/852b9f34-56fb-4235-a2b7-5a6eb77e615b">
+<img  src="https://github.com/dandiers/ddospanel/assets/61583533/dd7db5a0-320c-4759-8d92-d75dd3fd9ce6"></img>
+
 
 # Power
 <img src="https://github.com/dandiers/ddospanel/assets/61583533/8ba3779b-90e5-4798-a3b5-aaab3399ecbb"></img>
