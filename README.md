@@ -54,7 +54,6 @@ npm i https-proxy-agent
 npm i cloudflare-bypasser
 npm i http http2 crypto tls
 npm i net
-npm i requests
 git clone https://github.com/dandiers/DdosPanel.git
 cd DdosPanel
 pip install -r requirements.txt
